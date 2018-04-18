@@ -4,7 +4,7 @@ class BootStrap {
 
     def init = { servletContext ->
 
-def manager1 = new
+/*def manager1 = new
  
 Manager(
 
@@ -148,7 +148,7 @@ department: 'Clothing',
 timeRequired: '8 Hours',
 description: 'Knit Clothes',
 taskCompleted: 'Yes'
-).save()
+).save()*/
     }
     def destroy = {
     }
